@@ -1,0 +1,14 @@
+/Users/ashish/Projects/DesignPatterns/FacadeDesignPattern/bin/Debug/net8.0/FacadeDesignPattern
+/Users/ashish/Projects/DesignPatterns/FacadeDesignPattern/bin/Debug/net8.0/FacadeDesignPattern.deps.json
+/Users/ashish/Projects/DesignPatterns/FacadeDesignPattern/bin/Debug/net8.0/FacadeDesignPattern.runtimeconfig.json
+/Users/ashish/Projects/DesignPatterns/FacadeDesignPattern/bin/Debug/net8.0/FacadeDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/FacadeDesignPattern/bin/Debug/net8.0/FacadeDesignPattern.pdb
+/Users/ashish/Projects/DesignPatterns/FacadeDesignPattern/obj/Debug/net8.0/FacadeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashish/Projects/DesignPatterns/FacadeDesignPattern/obj/Debug/net8.0/FacadeDesignPattern.AssemblyInfoInputs.cache
+/Users/ashish/Projects/DesignPatterns/FacadeDesignPattern/obj/Debug/net8.0/FacadeDesignPattern.AssemblyInfo.cs
+/Users/ashish/Projects/DesignPatterns/FacadeDesignPattern/obj/Debug/net8.0/FacadeDesignPattern.csproj.CoreCompileInputs.cache
+/Users/ashish/Projects/DesignPatterns/FacadeDesignPattern/obj/Debug/net8.0/FacadeDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/FacadeDesignPattern/obj/Debug/net8.0/refint/FacadeDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/FacadeDesignPattern/obj/Debug/net8.0/FacadeDesignPattern.pdb
+/Users/ashish/Projects/DesignPatterns/FacadeDesignPattern/obj/Debug/net8.0/FacadeDesignPattern.genruntimeconfig.cache
+/Users/ashish/Projects/DesignPatterns/FacadeDesignPattern/obj/Debug/net8.0/ref/FacadeDesignPattern.dll

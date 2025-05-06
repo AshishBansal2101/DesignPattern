@@ -1,0 +1,14 @@
+/Users/ashish/Projects/DesignPatterns/DesignPatterns/bin/Debug/net8.0/DesignPatterns
+/Users/ashish/Projects/DesignPatterns/DesignPatterns/bin/Debug/net8.0/DesignPatterns.deps.json
+/Users/ashish/Projects/DesignPatterns/DesignPatterns/bin/Debug/net8.0/DesignPatterns.runtimeconfig.json
+/Users/ashish/Projects/DesignPatterns/DesignPatterns/bin/Debug/net8.0/DesignPatterns.dll
+/Users/ashish/Projects/DesignPatterns/DesignPatterns/bin/Debug/net8.0/DesignPatterns.pdb
+/Users/ashish/Projects/DesignPatterns/DesignPatterns/obj/Debug/net8.0/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashish/Projects/DesignPatterns/DesignPatterns/obj/Debug/net8.0/DesignPatterns.AssemblyInfoInputs.cache
+/Users/ashish/Projects/DesignPatterns/DesignPatterns/obj/Debug/net8.0/DesignPatterns.AssemblyInfo.cs
+/Users/ashish/Projects/DesignPatterns/DesignPatterns/obj/Debug/net8.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/ashish/Projects/DesignPatterns/DesignPatterns/obj/Debug/net8.0/DesignPatterns.dll
+/Users/ashish/Projects/DesignPatterns/DesignPatterns/obj/Debug/net8.0/refint/DesignPatterns.dll
+/Users/ashish/Projects/DesignPatterns/DesignPatterns/obj/Debug/net8.0/DesignPatterns.pdb
+/Users/ashish/Projects/DesignPatterns/DesignPatterns/obj/Debug/net8.0/DesignPatterns.genruntimeconfig.cache
+/Users/ashish/Projects/DesignPatterns/DesignPatterns/obj/Debug/net8.0/ref/DesignPatterns.dll

@@ -1,0 +1,14 @@
+/Users/ashish/Projects/DesignPatterns/SingletonDesignPattern/bin/Debug/net8.0/SingletonDesignPattern
+/Users/ashish/Projects/DesignPatterns/SingletonDesignPattern/bin/Debug/net8.0/SingletonDesignPattern.deps.json
+/Users/ashish/Projects/DesignPatterns/SingletonDesignPattern/bin/Debug/net8.0/SingletonDesignPattern.runtimeconfig.json
+/Users/ashish/Projects/DesignPatterns/SingletonDesignPattern/bin/Debug/net8.0/SingletonDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/SingletonDesignPattern/bin/Debug/net8.0/SingletonDesignPattern.pdb
+/Users/ashish/Projects/DesignPatterns/SingletonDesignPattern/obj/Debug/net8.0/SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashish/Projects/DesignPatterns/SingletonDesignPattern/obj/Debug/net8.0/SingletonDesignPattern.AssemblyInfoInputs.cache
+/Users/ashish/Projects/DesignPatterns/SingletonDesignPattern/obj/Debug/net8.0/SingletonDesignPattern.AssemblyInfo.cs
+/Users/ashish/Projects/DesignPatterns/SingletonDesignPattern/obj/Debug/net8.0/SingletonDesignPattern.csproj.CoreCompileInputs.cache
+/Users/ashish/Projects/DesignPatterns/SingletonDesignPattern/obj/Debug/net8.0/SingletonDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/SingletonDesignPattern/obj/Debug/net8.0/refint/SingletonDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/SingletonDesignPattern/obj/Debug/net8.0/SingletonDesignPattern.pdb
+/Users/ashish/Projects/DesignPatterns/SingletonDesignPattern/obj/Debug/net8.0/SingletonDesignPattern.genruntimeconfig.cache
+/Users/ashish/Projects/DesignPatterns/SingletonDesignPattern/obj/Debug/net8.0/ref/SingletonDesignPattern.dll
