@@ -1,0 +1,15 @@
+/Users/ashish/Projects/DesignPatterns/AdapterDesignPattern/bin/Debug/net8.0/AdapterDesignPattern
+/Users/ashish/Projects/DesignPatterns/AdapterDesignPattern/bin/Debug/net8.0/AdapterDesignPattern.deps.json
+/Users/ashish/Projects/DesignPatterns/AdapterDesignPattern/bin/Debug/net8.0/AdapterDesignPattern.runtimeconfig.json
+/Users/ashish/Projects/DesignPatterns/AdapterDesignPattern/bin/Debug/net8.0/AdapterDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/AdapterDesignPattern/bin/Debug/net8.0/AdapterDesignPattern.pdb
+/Users/ashish/Projects/DesignPatterns/AdapterDesignPattern/obj/Debug/net8.0/AdapterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashish/Projects/DesignPatterns/AdapterDesignPattern/obj/Debug/net8.0/AdapterDesignPattern.AssemblyInfoInputs.cache
+/Users/ashish/Projects/DesignPatterns/AdapterDesignPattern/obj/Debug/net8.0/AdapterDesignPattern.AssemblyInfo.cs
+/Users/ashish/Projects/DesignPatterns/AdapterDesignPattern/obj/Debug/net8.0/AdapterDesignPattern.csproj.CoreCompileInputs.cache
+/Users/ashish/Projects/DesignPatterns/AdapterDesignPattern/obj/Debug/net8.0/AdapterDesignPattern.sourcelink.json
+/Users/ashish/Projects/DesignPatterns/AdapterDesignPattern/obj/Debug/net8.0/AdapterDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/AdapterDesignPattern/obj/Debug/net8.0/refint/AdapterDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/AdapterDesignPattern/obj/Debug/net8.0/AdapterDesignPattern.pdb
+/Users/ashish/Projects/DesignPatterns/AdapterDesignPattern/obj/Debug/net8.0/AdapterDesignPattern.genruntimeconfig.cache
+/Users/ashish/Projects/DesignPatterns/AdapterDesignPattern/obj/Debug/net8.0/ref/AdapterDesignPattern.dll
