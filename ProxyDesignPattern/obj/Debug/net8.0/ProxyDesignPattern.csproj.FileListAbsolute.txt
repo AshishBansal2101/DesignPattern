@@ -1,0 +1,15 @@
+/Users/ashish/Projects/DesignPatterns/ProxyDesignPattern/bin/Debug/net8.0/ProxyDesignPattern
+/Users/ashish/Projects/DesignPatterns/ProxyDesignPattern/bin/Debug/net8.0/ProxyDesignPattern.deps.json
+/Users/ashish/Projects/DesignPatterns/ProxyDesignPattern/bin/Debug/net8.0/ProxyDesignPattern.runtimeconfig.json
+/Users/ashish/Projects/DesignPatterns/ProxyDesignPattern/bin/Debug/net8.0/ProxyDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/ProxyDesignPattern/bin/Debug/net8.0/ProxyDesignPattern.pdb
+/Users/ashish/Projects/DesignPatterns/ProxyDesignPattern/obj/Debug/net8.0/ProxyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashish/Projects/DesignPatterns/ProxyDesignPattern/obj/Debug/net8.0/ProxyDesignPattern.AssemblyInfoInputs.cache
+/Users/ashish/Projects/DesignPatterns/ProxyDesignPattern/obj/Debug/net8.0/ProxyDesignPattern.AssemblyInfo.cs
+/Users/ashish/Projects/DesignPatterns/ProxyDesignPattern/obj/Debug/net8.0/ProxyDesignPattern.csproj.CoreCompileInputs.cache
+/Users/ashish/Projects/DesignPatterns/ProxyDesignPattern/obj/Debug/net8.0/ProxyDesignPattern.sourcelink.json
+/Users/ashish/Projects/DesignPatterns/ProxyDesignPattern/obj/Debug/net8.0/ProxyDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/ProxyDesignPattern/obj/Debug/net8.0/refint/ProxyDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/ProxyDesignPattern/obj/Debug/net8.0/ProxyDesignPattern.pdb
+/Users/ashish/Projects/DesignPatterns/ProxyDesignPattern/obj/Debug/net8.0/ProxyDesignPattern.genruntimeconfig.cache
+/Users/ashish/Projects/DesignPatterns/ProxyDesignPattern/obj/Debug/net8.0/ref/ProxyDesignPattern.dll

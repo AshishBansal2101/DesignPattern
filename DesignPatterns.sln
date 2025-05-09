@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDesignPattern", "Ada
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeDesignPattern", "PrototypeDesignPattern\PrototypeDesignPattern.csproj", "{15774BCE-504C-4EA9-92D8-8D0F9C67AFE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyDesignPattern", "ProxyDesignPattern\ProxyDesignPattern.csproj", "{7CE19456-59B6-45C6-83D2-9350CE70D465}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{15774BCE-504C-4EA9-92D8-8D0F9C67AFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15774BCE-504C-4EA9-92D8-8D0F9C67AFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15774BCE-504C-4EA9-92D8-8D0F9C67AFE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE19456-59B6-45C6-83D2-9350CE70D465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE19456-59B6-45C6-83D2-9350CE70D465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE19456-59B6-45C6-83D2-9350CE70D465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE19456-59B6-45C6-83D2-9350CE70D465}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
