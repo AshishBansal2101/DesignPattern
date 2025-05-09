@@ -1,0 +1,15 @@
+/Users/ashish/Projects/DesignPatterns/PrototypeDesignPattern/bin/Debug/net8.0/PrototypeDesignPattern
+/Users/ashish/Projects/DesignPatterns/PrototypeDesignPattern/bin/Debug/net8.0/PrototypeDesignPattern.deps.json
+/Users/ashish/Projects/DesignPatterns/PrototypeDesignPattern/bin/Debug/net8.0/PrototypeDesignPattern.runtimeconfig.json
+/Users/ashish/Projects/DesignPatterns/PrototypeDesignPattern/bin/Debug/net8.0/PrototypeDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/PrototypeDesignPattern/bin/Debug/net8.0/PrototypeDesignPattern.pdb
+/Users/ashish/Projects/DesignPatterns/PrototypeDesignPattern/obj/Debug/net8.0/PrototypeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashish/Projects/DesignPatterns/PrototypeDesignPattern/obj/Debug/net8.0/PrototypeDesignPattern.AssemblyInfoInputs.cache
+/Users/ashish/Projects/DesignPatterns/PrototypeDesignPattern/obj/Debug/net8.0/PrototypeDesignPattern.AssemblyInfo.cs
+/Users/ashish/Projects/DesignPatterns/PrototypeDesignPattern/obj/Debug/net8.0/PrototypeDesignPattern.csproj.CoreCompileInputs.cache
+/Users/ashish/Projects/DesignPatterns/PrototypeDesignPattern/obj/Debug/net8.0/PrototypeDesignPattern.sourcelink.json
+/Users/ashish/Projects/DesignPatterns/PrototypeDesignPattern/obj/Debug/net8.0/PrototypeDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/PrototypeDesignPattern/obj/Debug/net8.0/refint/PrototypeDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/PrototypeDesignPattern/obj/Debug/net8.0/PrototypeDesignPattern.pdb
+/Users/ashish/Projects/DesignPatterns/PrototypeDesignPattern/obj/Debug/net8.0/PrototypeDesignPattern.genruntimeconfig.cache
+/Users/ashish/Projects/DesignPatterns/PrototypeDesignPattern/obj/Debug/net8.0/ref/PrototypeDesignPattern.dll
