@@ -1,0 +1,15 @@
+/Users/ashish/Projects/DesignPatterns/MediatorDesignPattern/obj/Debug/net8.0/MediatorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashish/Projects/DesignPatterns/MediatorDesignPattern/obj/Debug/net8.0/MediatorDesignPattern.AssemblyInfoInputs.cache
+/Users/ashish/Projects/DesignPatterns/MediatorDesignPattern/obj/Debug/net8.0/MediatorDesignPattern.AssemblyInfo.cs
+/Users/ashish/Projects/DesignPatterns/MediatorDesignPattern/obj/Debug/net8.0/MediatorDesignPattern.csproj.CoreCompileInputs.cache
+/Users/ashish/Projects/DesignPatterns/MediatorDesignPattern/obj/Debug/net8.0/MediatorDesignPattern.sourcelink.json
+/Users/ashish/Projects/DesignPatterns/MediatorDesignPattern/bin/Debug/net8.0/MediatorDesignPattern
+/Users/ashish/Projects/DesignPatterns/MediatorDesignPattern/bin/Debug/net8.0/MediatorDesignPattern.deps.json
+/Users/ashish/Projects/DesignPatterns/MediatorDesignPattern/bin/Debug/net8.0/MediatorDesignPattern.runtimeconfig.json
+/Users/ashish/Projects/DesignPatterns/MediatorDesignPattern/bin/Debug/net8.0/MediatorDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/MediatorDesignPattern/bin/Debug/net8.0/MediatorDesignPattern.pdb
+/Users/ashish/Projects/DesignPatterns/MediatorDesignPattern/obj/Debug/net8.0/MediatorDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/MediatorDesignPattern/obj/Debug/net8.0/refint/MediatorDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/MediatorDesignPattern/obj/Debug/net8.0/MediatorDesignPattern.pdb
+/Users/ashish/Projects/DesignPatterns/MediatorDesignPattern/obj/Debug/net8.0/MediatorDesignPattern.genruntimeconfig.cache
+/Users/ashish/Projects/DesignPatterns/MediatorDesignPattern/obj/Debug/net8.0/ref/MediatorDesignPattern.dll
