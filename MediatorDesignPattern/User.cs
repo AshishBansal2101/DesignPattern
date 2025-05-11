@@ -9,6 +9,7 @@ namespace MediatorDesignPattern
 		public User(string name)
 		{
 			Name = name;
+			
 		}
 
 		public void SetchatRoom(Chatroom chatroom)
@@ -18,8 +19,7 @@ namespace MediatorDesignPattern
 
 		public void SendMessage(string to, string msg)
 		{
-			Console.WriteLine($"Sending msg by {Name} to {to}");
-
+			Console.WriteLine($"Sending msg {Name}")
 			_chatroom?.SendMessage(Name,to,msg);
 		}
 
