@@ -1,0 +1,15 @@
+/Users/ashish/Projects/DesignPatterns/TemplateDesignPattern/bin/Debug/net8.0/TemplateDesignPattern
+/Users/ashish/Projects/DesignPatterns/TemplateDesignPattern/bin/Debug/net8.0/TemplateDesignPattern.deps.json
+/Users/ashish/Projects/DesignPatterns/TemplateDesignPattern/bin/Debug/net8.0/TemplateDesignPattern.runtimeconfig.json
+/Users/ashish/Projects/DesignPatterns/TemplateDesignPattern/bin/Debug/net8.0/TemplateDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/TemplateDesignPattern/bin/Debug/net8.0/TemplateDesignPattern.pdb
+/Users/ashish/Projects/DesignPatterns/TemplateDesignPattern/obj/Debug/net8.0/TemplateDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashish/Projects/DesignPatterns/TemplateDesignPattern/obj/Debug/net8.0/TemplateDesignPattern.AssemblyInfoInputs.cache
+/Users/ashish/Projects/DesignPatterns/TemplateDesignPattern/obj/Debug/net8.0/TemplateDesignPattern.AssemblyInfo.cs
+/Users/ashish/Projects/DesignPatterns/TemplateDesignPattern/obj/Debug/net8.0/TemplateDesignPattern.csproj.CoreCompileInputs.cache
+/Users/ashish/Projects/DesignPatterns/TemplateDesignPattern/obj/Debug/net8.0/TemplateDesignPattern.sourcelink.json
+/Users/ashish/Projects/DesignPatterns/TemplateDesignPattern/obj/Debug/net8.0/TemplateDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/TemplateDesignPattern/obj/Debug/net8.0/refint/TemplateDesignPattern.dll
+/Users/ashish/Projects/DesignPatterns/TemplateDesignPattern/obj/Debug/net8.0/TemplateDesignPattern.pdb
+/Users/ashish/Projects/DesignPatterns/TemplateDesignPattern/obj/Debug/net8.0/TemplateDesignPattern.genruntimeconfig.cache
+/Users/ashish/Projects/DesignPatterns/TemplateDesignPattern/obj/Debug/net8.0/ref/TemplateDesignPattern.dll
