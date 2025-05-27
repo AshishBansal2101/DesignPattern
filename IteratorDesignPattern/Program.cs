@@ -14,7 +14,6 @@
             {
                 Console.WriteLine(page);
             }
-
             notebook.SetReverse();
             Console.WriteLine("Pages from End - in reverse");
             foreach (var page in notebook)
