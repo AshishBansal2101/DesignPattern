@@ -19,7 +19,7 @@ namespace MediatorDesignPattern
 
 		public void SendMessage(string to, string msg)
 		{
-			Console.WriteLine($"Sending msg {Name}")
+			Console.WriteLine($"Sending msg {Name}");
 			_chatroom?.SendMessage(Name,to,msg);
 		}
 

@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorDesignPattern", "It
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeDesignPattern", "BridgeDesignPattern\BridgeDesignPattern.csproj", "{53D39D17-A255-4438-B31E-6264C5581D2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryMethod", "AbstractFactoryMethod\AbstractFactoryMethod.csproj", "{3EBE9CC2-95FC-44F9-9AB5-95A01E5321BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{53D39D17-A255-4438-B31E-6264C5581D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53D39D17-A255-4438-B31E-6264C5581D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53D39D17-A255-4438-B31E-6264C5581D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBE9CC2-95FC-44F9-9AB5-95A01E5321BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBE9CC2-95FC-44F9-9AB5-95A01E5321BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBE9CC2-95FC-44F9-9AB5-95A01E5321BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBE9CC2-95FC-44F9-9AB5-95A01E5321BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
