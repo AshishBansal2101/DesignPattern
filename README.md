@@ -1,4 +1,3 @@
-```markdown
 # 🎨 C# Design Patterns Collection
 
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-C%23-blue?style=for-the-badge&logo=c-sharp)
@@ -67,4 +66,3 @@ graph LR
 **Happy Coding!** 🚀
 
 </div>
-```
