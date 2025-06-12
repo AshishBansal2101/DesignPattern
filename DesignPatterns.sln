@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsiblity", "Cha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateDesignPattern", "StateDesignPattern\StateDesignPattern.csproj", "{CDA32CEB-C5F1-4D5F-842D-61CAFCDEEA48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightDesignPattern", "FlyweightDesignPattern\FlyweightDesignPattern.csproj", "{1ED207DB-A361-468A-894C-A05563FBB81C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{CDA32CEB-C5F1-4D5F-842D-61CAFCDEEA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDA32CEB-C5F1-4D5F-842D-61CAFCDEEA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDA32CEB-C5F1-4D5F-842D-61CAFCDEEA48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED207DB-A361-468A-894C-A05563FBB81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED207DB-A361-468A-894C-A05563FBB81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED207DB-A361-468A-894C-A05563FBB81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED207DB-A361-468A-894C-A05563FBB81C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
